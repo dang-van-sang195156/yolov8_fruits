@@ -2,6 +2,7 @@
  Thực hiện chương trình nhận diện hoa quả với 3 loại quả phân biệt: cam, bưởi, chanh
 /
 Các file chương trình được tải từ github yolov8 gồm họ ultralytics, runs
+Moi truong ao conda: yolo_v8
 ## Dữ liệu
 Tập dữ liệu hiện có chỉ bao gồn cam (tốt) và cam (hỏng)
 ## Các file trained
